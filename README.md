@@ -1,4 +1,4 @@
-# Unique and Random Password Grenerator
+# Random Password Grenerator Created by Jordan Dukes
 
 ## Description
 
@@ -11,9 +11,14 @@ N/A
 
 ## Usage
 
-This program is very simple to use and understand. First the user must 'click' the "generate password" button. This will then send the user to a series of questions which will ask what the encrypted password should be. The user should also be aware that this generator only compiles passwords in length of 8-128. If the length is not chosen correctly, the system will revert you back to the start. Once the series of questions are answered by the user, then a password containing the chosen characters will appear.
+This program is very simple to use and understand. First the user must 'click' the "generate password" button. This will then send the user to a series of questions which will ask what the encrypted password should be. The user should also be aware that this generator only compiles passwords in length of 8-128. If the length is not chosen correctly, the system will revert you back to the start. Once the series of questions are answered by the user, then a password containing the chosen characters will appear. Below is a referenced screenshot which display the first page of the password generator. You will notice the giant red button that should be clicked to start the process. Enjoy making a bunch of untrackable passwords!
+
+![alt text](assets/Pic.png)
 
 ## Credits
 
+N/A
 
-This repository was created as a holding place for my 3rd class module
+## Link
+
+https://jlddukes.github.io/BOOTCAMP-CHALLENGE3-PROJECT-TRES/
